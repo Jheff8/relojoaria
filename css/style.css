@@ -374,7 +374,7 @@ body{
     padding: 30px;
 }
 
-/* media querys */
+/* media queries */
 @media screen and (min-width: 992px){
     .navbar-brand{
         text-align: left;
